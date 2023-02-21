@@ -1,0 +1,17 @@
+GET http://localhost:3000/
+
+###
+
+POST http://localhost:3000/add
+
+###
+
+POST http://localhost:3000/sub
+
+###
+
+POST http://localhost:3000/multiply
+
+###
+
+POST http://localhost:3000/divide
